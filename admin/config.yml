@@ -2,6 +2,7 @@ backend:
   name: github
   branch: master # Branch to update (optional; defaults to master)
   repo: mjburch/mjburch.github.io
+  site_domain: awesome-curran-054fdd.netlify.com
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
